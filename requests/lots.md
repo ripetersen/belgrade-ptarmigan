@@ -1,0 +1,96 @@
+```
+curl 'https://d1wu47wucybvr3.cloudfront.net/api/lots' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,da-DK;q=0.8,da;q=0.7' \
+  -H 'Authorization: null' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/json' \
+  -H 'DNT: 1' \
+  -H 'Origin: https://goldin.co' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: https://goldin.co/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36' \
+  -H 'company_id: 4d802a9f-922c-46bd-83c7-45f18f452f67' \
+  -H 'sec-ch-ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  --data-raw '{"queryType":"Search","slug":["1967-topps-national-leage-1966-rbi-leaders-242-hank-aaron-roberto-clemxakz9"]}'  
+```
+
+```
+{
+    "statusCode": 200,
+    "body": {
+        "lots": [
+            {
+                "start_timestamp": "2023-03-01T01:00:00Z",
+                "year": "1967",
+                "sub_category": "Baseball",
+                "item_type": "Single Cards",
+                "winner_id": "65c2b131-c0dd-48d7-9dcc-18c57a289b7d",
+                "description": "Hank Aaron is one of baseball's greatest and most beloved figures; the former home run king, who made a staggering 25 MLB All-Star teams and clubbed 755 home runs. Over his 23-season career, Aaron earned universal respect as a five-tool superstar. He remains baseball's all-time leader in RBI (2,297) and total bases (6,856), towering as a near-mythical figure still omnipresent in Major League Baseball. Aaron was elected to the National Baseball Hall of Fame in 1982, appearing on 406 of a possible 415 ballots. Sadly, the baseball legend passed away in January 2021.",
+                "title": "1967 Topps National Leage 1966 RBI Leaders #242 Hank Aaron/Roberto Clemente/Richie Allen - PSA VG-EX 4",
+                "lot_number": 3074,
+                "end_timestamp": "2023-03-10T02:15:03.515734",
+                "lot_id": "202302-1516-4128-cca9fd4d-0b88-4200-98fa-4007a4ebef2f",
+                "final_price": 27,
+                "tag": [
+                    ""
+                ],
+                "primary_image_name": "bf7da4a2-04f7-4fe1-ab40-aeea1cad5bea",
+                "grading_company": "PSA",
+                "meta_title": "1967 Topps National Leage 1966 RBI Leaders #242 Hank Aaron/R",
+                "number_of_bids": 9,
+                "company_id": "4d802a9f-922c-46bd-83c7-45f18f452f67",
+                "auction_type": "Weekly",
+                "meta_slug": "1967-topps-national-leage-1966-rbi-leaders-242-hank-aaron-roberto-clemxakz9",
+                "auction_id": "202212-1310-0934-72b7bd70-dbca-4a0e-b5ae-1254ea9ed501",
+                "serial_number": "G10110017",
+                "extended_bidding_duration": 15,
+                "meta_description": "Hank Aaron is one of baseball's greatest and most beloved figures; the former home run king, who made a staggering 25 MLB All-Star teams and clubbed 755 home runs. Over h",
+                "cert_number": "70676727",
+                "buyer_premium": 20,
+                "current_price": 27,
+                "category": "Sport",
+                "status": "Completed_Sold",
+                "min_bid_price": 5,
+                "auction_name": "Weekly Auction Feb 28 - March 9",
+                "images": [
+                    "public/Lots/202302-1516-4128-cca9fd4d-0b88-4200-98fa-4007a4ebef2f/bf7da4a2-04f7-4fe1-ab40-aeea1cad5bea",
+                    "public/Lots/202302-1516-4128-cca9fd4d-0b88-4200-98fa-4007a4ebef2f/5f311ad5-5811-43d3-a3d1-f18c864377e9"
+                ],
+                "next_slug": "1967-topps-45-roger-maris-psa-3b5yp9",
+                "next_lot_number": 3075,
+                "prev_slug": "1968-topps-1-bart-starr-psa-pr-1nfi1d",
+                "prev_lot_number": 3073
+            }
+        ],
+        "total": 1
+    }
+}
+```
+
+curl 'https://d1wu47wucybvr3.cloudfront.net/api/lots' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-US,en;q=0.9,da-DK;q=0.8,da;q=0.7' \
+  -H 'Authorization: null' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/json' \
+  -H 'DNT: 1' \
+  -H 'Origin: https://goldin.co' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: https://goldin.co/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36' \
+  -H 'company_id: 4d802a9f-922c-46bd-83c7-45f18f452f67' \
+  -H 'sec-ch-ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  --data-raw '{"queryType":"Search","lot_id": "202302-1516-4128-cca9fd4d-0b88-4200-98fa-4007a4ebef2f"}'  

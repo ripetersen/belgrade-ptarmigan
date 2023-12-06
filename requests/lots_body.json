@@ -1,0 +1,18 @@
+{
+  "search": {
+    "queryType": "Featured",
+    "item_type": [
+      "Single Cards"
+    ],
+    "sub_category": [
+      "Baseball"
+    ],
+    "size": 24,
+    "from": 0,
+    "auction_id": [
+      "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+      "202304-2420-5916-07971458-271a-4dea-ac87-7b6447491b74",
+      "202310-2313-4536-674bc8c3-372c-4d4a-b5c9-f40155e7ceff"
+    ]
+  }
+}

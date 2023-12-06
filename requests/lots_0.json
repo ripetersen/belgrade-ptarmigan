@@ -1,0 +1,492 @@
+{
+    "searchalgolia": {
+        "lots": [
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 205000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202308-2417-1250-5d290ea7-1fa4-46a1-88f1-b600a99bf613",
+                "lot_number": 2,
+                "meta_slug": "1933-goudey-106-napoleon-lajoe-psa-mint-9e51dg",
+                "min_bid_price": 50000.0,
+                "number_of_bids": 21.0,
+                "primary_image_name": "dea994ad-d870-4d2d-badf-0f2295f8f81e",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1933 Goudey #106 Napoleon Lajoie - PSA MINT 9"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 49000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202308-2417-1250-315a4f73-ac55-4bdc-8baa-59a19894a423",
+                "lot_number": 3,
+                "meta_slug": "1938-goudey-250-joe-dimaggio-psa-nm-mt-8folkk",
+                "min_bid_price": 25000.0,
+                "number_of_bids": 10.0,
+                "primary_image_name": "b8246e32-d4c3-4799-914c-af21e676f361",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1938 Goudey Heads-Up #250 Joe DiMaggio - PSA NM-MT 8\n"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 72000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202308-2417-1249-7b32f6e0-7cb1-4bc0-a509-f5e564f526b3",
+                "lot_number": 5,
+                "meta_slug": "1950-bowman-22-jackie-robinson-psa-mint-927oif",
+                "min_bid_price": 25000.0,
+                "number_of_bids": 15.0,
+                "primary_image_name": "dd3e3de8-4f81-4ef6-9361-d244d3cd0c13",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1950 Bowman #22 Jackie Robinson - PSA MINT 9"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 180000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202308-2417-1250-7ac54348-6448-4f02-9630-9e7bad0c47ec",
+                "lot_number": 6,
+                "meta_slug": "1955-topps-123-sandy-koufax-rookie-card-psa-mint-9pui70",
+                "min_bid_price": 50000.0,
+                "number_of_bids": 19.0,
+                "primary_image_name": "a3d1b115-b137-4ae9-821c-4ab22d252038",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1955 Topps #123 Sandy Koufax Rookie Card - PSA MINT 9"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 10000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0515-5034-18396c99-30fd-4bf2-a58b-da47bb27dba5",
+                "lot_number": 45,
+                "meta_slug": "1909-11-t206-white-border-ty-cobb-portrait-red-background-psa-ex-mt-67nbsz",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 11.0,
+                "primary_image_name": "7d504c00-8cd9-4b1f-9c4a-9164a0f1c106",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1909-11 T206 White Border Ty Cobb, Portrait, Red Background - PSA EX-MT 6"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 9600.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0518-2724-f201284d-a5af-43af-b4ce-8f7e546f82ea",
+                "lot_number": 46,
+                "meta_slug": "1912-t202-hassan-triple-folder-ty-cobb-hughie-jennings-ty-cobb-stealsyyrje",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 7.0,
+                "primary_image_name": "5783f5a8-6c6c-4ffe-aa45-4c9fa585ce8d",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1912 T202 Hassan Triple Folder Ty Cobb Steals Third, Ty Cobb/Hughie Jennings - PSA NM 7"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 22000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0515-5029-dcbf3056-362b-4033-86a7-b736f8dd6c52",
+                "lot_number": 47,
+                "meta_slug": "1915-cracker-jack-30-ty-cobb-sgc-vg-ex-40jyo2",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 22.0,
+                "primary_image_name": "3f18078b-1052-4a2a-a7e1-d13a69e13a5f",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1915 Cracker Jack #30 Ty Cobb - SGC VG-EX 4"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 19000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-1914-0610-f838f5e8-05f7-42f5-ab28-ea251a865764",
+                "lot_number": 48,
+                "meta_slug": "1921-e121-american-caramel-series-of-80-babe-ruth-psa-good-2qpr23",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 20.0,
+                "primary_image_name": "d0f99383-7650-4837-b2e9-4557bd01294c",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1921 E121 American Caramel Series of 80 Babe Ruth - PSA GD 2"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 36000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-1914-0610-af98fba7-f1e3-4e35-a5bf-ed2e65fdc54b",
+                "lot_number": 49,
+                "meta_slug": "1933-goudey-149-babe-ruth-psa-ex-mt-6xe22j",
+                "min_bid_price": 10000.0,
+                "number_of_bids": 17.0,
+                "primary_image_name": "569abf3e-9cb5-4fe4-b53e-85006cc59d79",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1933 Goudey #149 Babe Ruth - PSA EX-MT 6"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 24000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-2519-2727-c3314aac-b383-4a04-9748-2c3c7a9acf7d",
+                "lot_number": 50,
+                "meta_slug": "1933-world-wide-gum-co-80-babe-ruth-sgc-nm-7j8r6w",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 23.0,
+                "primary_image_name": "ab110954-3183-4ad7-83cb-dfa2e754de1a",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1933 V353 World Wide Gum Co. #80 Babe Ruth, French/English Back - SGC NM 7"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 42000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0515-5028-db605445-437f-445e-848f-7107a030985c",
+                "lot_number": 55,
+                "meta_slug": "1951-bowman-253-mickey-mantle-rookie-card-sgc-nm-7e0lsa",
+                "min_bid_price": 10000.0,
+                "number_of_bids": 21.0,
+                "primary_image_name": "ab32361c-ea2d-4d87-9860-47c50c7f127f",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1951 Bowman #253 Mickey Mantle Rookie Card - SGC NM 7"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 15500.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0515-5028-0b501940-0108-4e81-ac13-5e1a437e0967",
+                "lot_number": 56,
+                "meta_slug": "1951-bowman-253-mickey-mantle-rookie-card-psa-ex-5q2x79",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 15.0,
+                "primary_image_name": "1c519eb9-bb34-4a6c-b730-9766f9e03a1d",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1951 Bowman #253 Mickey Mantle Rookie Card - PSA EX 5"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 65000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202311-0223-3508-838e9056-a2a0-4a89-a7b1-02af6ade83a0",
+                "lot_number": 57,
+                "meta_slug": "1952-topps-311-mickey-mantle-psa-vg-ex-4sbr6n",
+                "min_bid_price": 10000.0,
+                "number_of_bids": 22.0,
+                "primary_image_name": "d9517f62-585b-4876-bd0a-02e66c1bddf8",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1952 Topps #311 Mickey Mantle - PSA VG-EX 4"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 28000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202311-0316-5722-6958b0ec-b44f-4ed5-b6ef-e74e5b041f24",
+                "lot_number": 58,
+                "meta_slug": "1952-topps-311-mickey-mantle-psa-gd-2-5jgmae",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 24.0,
+                "primary_image_name": "edc5c522-dc48-4600-af78-182cf5a77c86",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1952 Topps #311 Mickey Mantle \u2013 PSA GD+ 2.5"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 11000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-1914-5000-b2b1a03b-d94f-49c7-8382-02ede70aaaf9",
+                "lot_number": 59,
+                "meta_slug": "1952-topps-261-willie-mays-psa-ex-mt-6th9u7",
+                "min_bid_price": 2500.0,
+                "number_of_bids": 21.0,
+                "primary_image_name": "22c345ca-3840-4234-bd67-d23a451dca3f",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1952 Topps #261 Willie Mays - PSA EX-MT 6"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 17000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-1914-5000-abd6cf87-b730-4f12-9a28-8bc7a86f455e",
+                "lot_number": 60,
+                "meta_slug": "1952-topps-312-jackie-robinson-psa-ex-mt-6-5x5y8d",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 18.0,
+                "primary_image_name": "543bc96c-8c51-40ab-ad5a-9892ad5e29ec",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1952 Topps #312 Jackie Robinson - PSA EX-MT+ 6.5"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 16000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202308-0315-4344-ac1088c9-5172-4349-a957-94107611d13c",
+                "lot_number": 62,
+                "meta_slug": "1965-topps-477-steve-carlton-rookie-card-sgc-gm-10-mba-gold-diamondx66qs",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 16.0,
+                "primary_image_name": "1ce17cd7-fb13-4e2a-b24e-17b308bd7e58",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1965 Topps #477 Steve Carlton Rookie Card - SGC GM 10 - Pop 1 - MBA Gold Diamond Certified"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 14101.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-3117-5411-74b87a58-b438-4198-8d7a-1119efa1c100",
+                "lot_number": 76,
+                "meta_slug": "2004-donruss-timeless-treasures-home-away-gamers-combos-19-lou-gehrigfho40",
+                "min_bid_price": 5000.0,
+                "number_of_bids": 16.0,
+                "primary_image_name": "cb76f2d4-c6e8-45b0-b073-b261de613eb8",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "2004 Donruss Timeless Treasures Home Away Gamers Combos #19 Lou Gehrig Signed Patch Card (#1/1) - Beckett Authentic, Beckett LOA"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 51000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0219-0856-0c7c6150-ae75-4255-a8f3-090ad3ad8a79",
+                "lot_number": 85,
+                "meta_slug": "2018-bowman-chrome-rookie-autographs-orange-refractor-bcra-so-shohei-oe6opf",
+                "min_bid_price": 10000.0,
+                "number_of_bids": 22.0,
+                "primary_image_name": "0979c8fd-f134-41c4-b4e3-3b789174ece5",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "2018 Bowman Chrome Rookie Autographs Orange Refractor #BCRA-SO Shohei Ohtani Signed Rookie Card (#19/25) - BGS GEM MINT 9.5, Beckett 10 - True Gem+"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 24000.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-3020-1436-24524f0d-23b1-4f45-a856-2cb450d13809",
+                "lot_number": 86,
+                "meta_slug": "2018-bowman-chrome-rookie-autograph-gold-refractor-cra-so-shohei-ohtantl91z",
+                "min_bid_price": 10000.0,
+                "number_of_bids": 13.0,
+                "primary_image_name": "9ec36b66-0f3b-4e60-ae37-dc2f60b14c07",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "2018 Bowman Chrome Rookie Autographs Gold Refractor #CRA-SO Shohei Ohtani Signed Rookie Card (#16/50) - BGS GEM MINT 9.5, Beckett 10 - True Gem+"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 4100.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-2519-2733-9724caa9-6ce3-4e4e-b456-9dbf9d292f97",
+                "lot_number": 216,
+                "meta_slug": "1909-philadelphia-caramel-e95-honus-wagner-sgc-fr-1-56r898",
+                "min_bid_price": 1000.0,
+                "number_of_bids": 16.0,
+                "primary_image_name": "d112e5b1-32d5-463f-9c5d-6eaa923f54bf",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1909 E95 Philadelphia Caramel Honus Wagner - SGC FR 1.5\n"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 3100.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-1914-0613-1200a709-b11c-43fe-a132-a167a1668ae5",
+                "lot_number": 217,
+                "meta_slug": "1909-11-t206-white-border-bill-bergen-batting-psa-nm-mt-8dzcsy",
+                "min_bid_price": 1000.0,
+                "number_of_bids": 19.0,
+                "primary_image_name": "590790cf-e17a-4862-8c37-ba70668d34d4",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1909-11 T206 White Border Bill Bergen, Batting - PSA NM-MT 8 - Pop 3"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 8251.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0515-5034-ef620d73-d30a-4fb2-ba94-18768cfa8fdb",
+                "lot_number": 218,
+                "meta_slug": "1909-11-t206-white-border-cy-young-glove-shows-psa-ex-mt-6nrt8a",
+                "min_bid_price": 1500.0,
+                "number_of_bids": 23.0,
+                "primary_image_name": "f1a3218c-aebd-4868-9277-25cc3c1c85fa",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1909-11 T206 White Border Cy Young, Cleveland, Glove Shows - PSA EX-MT 6"
+            },
+            {
+                "auction_id": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                "buyer_premium": 22.0,
+                "company_id": "",
+                "current_price": 12250.0,
+                "end_timestamp": "2023-12-03T03:00:00Z",
+                "lot_id": "202310-0518-2723-5887e428-8e8c-4402-995a-3d7d3bf4a85b",
+                "lot_number": 219,
+                "meta_slug": "1909-11-t206-white-border-cy-young-portrait-sgc-nm-7y11xc",
+                "min_bid_price": 2500.0,
+                "number_of_bids": 22.0,
+                "primary_image_name": "9852812a-0e49-4962-b20c-4c1d7b6e6b57",
+                "reserve_amount": 0.0,
+                "status": "Live",
+                "title": "1909-11 T206 White Border Cy Young, Portrait - SGC NM 7 - Pop 2"
+            }
+        ],
+        "facets": [
+            {
+                "title": "Allow Offers",
+                "buckets": []
+            },
+            {
+                "title": "Auctions",
+                "buckets": [
+                    {
+                        "key": "202304-2420-5916-07971458-271a-4dea-ac87-7b6447491b74",
+                        "doc_count": 571
+                    },
+                    {
+                        "key": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089",
+                        "doc_count": 494
+                    }
+                ]
+            },
+            {
+                "title": "Category",
+                "buckets": [
+                    {
+                        "key": "Sport",
+                        "doc_count": 638
+                    },
+                    {
+                        "key": "Treasures From The PSA Vault",
+                        "doc_count": 427
+                    }
+                ]
+            },
+            {
+                "title": "Certification",
+                "buckets": [
+                    {
+                        "key": "PSA",
+                        "doc_count": 982
+                    },
+                    {
+                        "key": "SGC",
+                        "doc_count": 57
+                    },
+                    {
+                        "key": "Beckett",
+                        "doc_count": 22
+                    },
+                    {
+                        "key": "Ungraded",
+                        "doc_count": 4
+                    }
+                ]
+            },
+            {
+                "title": "Item Type",
+                "buckets": [
+                    {
+                        "key": "Single Cards",
+                        "doc_count": 1065
+                    }
+                ]
+            },
+            {
+                "title": "Manufacturer",
+                "buckets": []
+            },
+            {
+                "title": "Season",
+                "buckets": []
+            },
+            {
+                "title": "Sub Category",
+                "buckets": [
+                    {
+                        "key": "Baseball",
+                        "doc_count": 1065
+                    }
+                ]
+            },
+            {
+                "title": "Tag",
+                "buckets": []
+            },
+            {
+                "title": "Team",
+                "buckets": []
+            },
+            {
+                "title": "Algolia Auctions",
+                "buckets": [
+                    {
+                        "key": "202304-2420-5916-07971458-271a-4dea-ac87-7b6447491b74@Weekly Auction 28 Nov - 7 Dec",
+                        "doc_count": 571
+                    },
+                    {
+                        "key": "202301-3016-2107-2bff5e07-76fe-429d-9b83-549dbb2f4089@2023 November Elite Auction",
+                        "doc_count": 494
+                    }
+                ]
+            }
+        ],
+        "total": 1065,
+        "queryId": "2b4f10071f3babd876ca3d94f4275aee"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "lots": {
+        "url": "https://d1wu47wucybvr3.cloudfront.net/api/lots",
+        "search": "Search",
+        "facets": "Facet",
+        "count": "count"
+    },
+    "lots_v2": {
+        "url": "https://d1wu47wucybvr3.cloudfront.net/api/lots_v2",
+        "search": "Search",
+        "facets": "Facet",
+        "count": "count"
+    },
+    "watchList": {
+        "url": "https://dgzhctp9iogel.cloudfront.net/api/watchlist"
+    },
+    "consignment": {
+        "url": "https://d48cwzgutl593.cloudfront.net/api/consigned_lots"
+    },
+    "winningOutbid": {
+        "lots": "https://d48cwzgutl593.cloudfront.net/api/bidding_lots"
+    },
+    "bidding": {
+        "lots": "https://d48cwzgutl593.cloudfront.net/api/bidding/lots"
+    },
+    "bid": {
+        "url": "https://d2b0m2pytsm6xz.cloudfront.net/api/place_bid",
+        "history": "https://d2b0m2pytsm6xz.cloudfront.net/api/bid_history"
+    },
+    "buy": {
+        "offers": "https://dl3lsg80xryu2.cloudfront.net/api/buy/offers",
+        "buyNow": "https://d2tsdfi87wvj8x.cloudfront.net/api/buy_now"
+    },
+    "sell": {
+        "lots": "https://dl3lsg80xryu2.cloudfront.net/api/sell/lots"
+    },
+    "savedSearchAPI": "https://7vpdhxetqe.execute-api.us-east-2.amazonaws.com/prod/saved_search",
+    "userData": {
+        "url": "https://d12nbv15dy6dwk.cloudfront.net/api/user_lot_activity",
+        "lotBid": "https://d2b0m2pytsm6xz.cloudfront.net/api/get_user_bid_for_lot",
+        "shippingDetails": "https://d48cwzgutl593.cloudfront.net/api/shipping_address",
+        "secretBid": "https://d2b0m2pytsm6xz.cloudfront.net/api/maximum_bid",
+        "invoice": "https://dd9i33be7dynt.cloudfront.net/api/get_bidder_invoices",
+        "biddingPower": "https://d48cwzgutl593.cloudfront.net/api/credit_limit",
+        "buyTotal": "https://d12nbv15dy6dwk.cloudfront.net/api/user_buying_totals",
+        "sellTotal": "https://d12nbv15dy6dwk.cloudfront.net/api/user_selling_totals",
+        "orders": "https://d1macxv0rhozk2.cloudfront.net/api/checkout/orders",
+        "attributes": "https://d1qgnq2ryvotgk.cloudfront.net/api/attributes",
+        "cashAccount": "https://d1ltxmuqtnhgf5.cloudfront.net/api/cash-account",
+        "purchasedItems": "https://d48cwzgutl593.cloudfront.net/api/purchased",
+        "purchasedSummary": "https://d48cwzgutl593.cloudfront.net/api/purchasedSummary",
+        "devices": "https://7vpdhxetqe.execute-api.us-east-2.amazonaws.com/prod/userdevices"
+    },
+    "userAccountBadgesAPI": "https://d12nbv15dy6dwk.cloudfront.net/api/user_account_badges",
+    "subscribeToMQTT": {
+        "url": "https://d12nbv15dy6dwk.cloudfront.net/api/subscribe_updates"
+    },
+    "stripe": {
+        "url": "https://d2tsdfi87wvj8x.cloudfront.net/api/get_setup_intent",
+        "getCards": "https://d2tsdfi87wvj8x.cloudfront.net/api/get_all_cards",
+        "apiKey": "pk_live_51Igug9KFxf6AqynzY2W9HMo0bNXW6SteaOZHcQfepfswXhxQgquVuAVOLvDqGapTHizwGt91vKEsIkPXDEFYpd8w000MEFURnM",
+        "payout": "https://du5itfa6ahdxl.cloudfront.net/api/login_link"
+    },
+    "personasTraitsApi": {
+        "url": "https://d2j2946v0o7w86.cloudfront.net/api/user"
+    },
+    "carouselImages": "https://d32jj939reocwo.cloudfront.net/api/home/banners",
+    "auctions": {
+        "url": "https://d2l9s2774i83t9.cloudfront.net/api/auctions"
+    },
+    "checkout": {
+        "calculate": "https://d1macxv0rhozk2.cloudfront.net/api/checkout/calculate",
+        "orders": "https://d1macxv0rhozk2.cloudfront.net/api/checkout/orders",
+        "payment": "https://d2tsdfi87wvj8x.cloudfront.net/api/pay",
+        "pdf": "https://d1macxv0rhozk2.cloudfront.net/api/checkout/pdf"
+    },
+    "coupon": {
+        "validate": "https://d1gxthu7uxvzpa.cloudfront.net/api/validate_coupon"
+    },
+    "balance": {
+        "sellerPDF": "https://dh0sc507b36j2.cloudfront.net/api/seller/pdf",
+        "allTransactionsCSV": "https://d1ltxmuqtnhgf5.cloudfront.net/api/cash-account/export",
+        "withdraw": "https://du5itfa6ahdxl.cloudfront.net/api/withdraw"
+    }
+}
